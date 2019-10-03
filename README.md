@@ -15,9 +15,9 @@ Technological Specifications
 We will be using Python for creating ML/AI and Training Endpoints and WebStack including NodeJS and AngularJS for Web-App Platform.
 We will be covering many different Diseases and ML/Deep Learning Models. 
 
-Diabetes classification       -    Using KNN and SVM.
-Breast Cancer Prediction   -    Using Convolution Neural Network
-Lung Cancer                        -    Using 
-Liver Disease                       -    Using KMeans
-Skin Cancer Detection        -    Using Convolution Neural Network
-Heart Disease Detection    -    Using Logistic Regression
+- Diabetes classification       -    Using KNN and SVM.
+- Breast Cancer Prediction   -    Using Convolution Neural Network
+- Lung Cancer                        -    Using 
+- Liver Disease                       -    Using KMeans
+- Skin Cancer Detection        -    Using Convolution Neural Network
+= Heart Disease Detection    -    Using Logistic Regression
