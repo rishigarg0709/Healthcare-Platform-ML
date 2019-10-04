@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Diabetes Prediction</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
+</head>
+
+<body>
+    <div class="jumbotron">
+    <h3> Diabetes Prediction</h3><br>
+    <form class="form p-2" method="POST">    
+        <input class="form-control p-1" type="text" name="pregnancies" placeholder="Pregnancies"><br>
+        <input class="form-control p-1" type="text" name="glucose" placeholder="Glucose"><br>
+        <input class="form-control p-1" type="text" name="bp" placeholder="Blood Pressure"><br>
+        <input class="form-control p-1" type="text" name="skinThickness" placeholder="Skin Thickness"><br>
+        <input class="form-control p-1" type="text" name="Insulin" placeholder="Insulin"><br>
+        <input class="form-control p-1" type="text" name="BMI" placeholder="BMI"><br>
+        <input class="form-control p-1" type="text" name="DPF" placeholder="DiabetesPedigreeFunction"><br>
+        <input class="form-control p-1" type="text" name="age" placeholder="Age"><br>
+
+        <input class="form-control" type="submit" value="Submit">
+    </form>
+    <br>
+    <h3>Predicted Result is: {{ results }}</h3>
+    </div>
+</body>
+
+</html>
