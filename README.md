@@ -1,4 +1,4 @@
-# minor-ml-in-healthcare
+# Minor-Ml-in-Healthcare
 
 ## Overview
 Machine learning is used to discover patterns from from medical data sources and provide excellent capabilities to predict diseases. 
